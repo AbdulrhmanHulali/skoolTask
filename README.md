@@ -1,2 +1,2 @@
-# skoolTask
+# skoolTraining
 qafza task
